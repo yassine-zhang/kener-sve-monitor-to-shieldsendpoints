@@ -2,6 +2,9 @@
 
 本项目基于 Cloudflare Worker，使用 bun 作为包管理工具，实现对 kener 的 SVE-API monitor 的请求，并将结果转为 shields.io 可识别的 endpoint 格式。
 
+[![Server Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fkener-sve-monitor-to-shieldsendpoints.it-edu.workers.dev%2Fstatus)](https://status.itcox.cn/?monitor=sve-api)
+[![Server Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fkener-sve-monitor-to-shieldsendpoints.it-edu.workers.dev%2Fuptime)](https://status.itcox.cn/?monitor=sve-api)
+
 ## 快速开始
 
 ### 安装依赖
