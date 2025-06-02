@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "kener-sve-monitor-to-shieldsendpoints",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-06-02",
+  "vars": {
+    "KENER_HOST": "status.itcox.cn",
+    "KENER_MONITOR_TAG": "sve-api"
+  }
+}
